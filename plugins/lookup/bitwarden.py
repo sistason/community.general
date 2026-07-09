@@ -62,6 +62,7 @@ options:
   sync:
     description: Set to C(true) to sync items from the Bitwarden vault in the beginning.
     type: bool
+    default: false
     version_added: 13.2.0
 """
 
