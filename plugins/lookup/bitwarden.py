@@ -60,7 +60,7 @@ options:
     type: int
     version_added: 10.4.0
   sync:
-    description: Set to sync items from the Bitwarden vault in the beginning
+    description: Set to C(true) to sync items from the Bitwarden vault in the beginning.
     type: bool
     version_added: 13.2.0
 """
